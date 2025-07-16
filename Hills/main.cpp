@@ -6872,28 +6872,28 @@ int main(int argc, char** argv)
     glutMouseFunc(handleMouse);
 
     // Load texture for the hill
-    loadTexture("D:/Computer_Graphics/Hill-01.png", &texture1); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/Hill1-01.png", &texture4); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/Hill2-01.png", &texture5); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/Hill-01.png", &texture1); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/Hill1-01.png", &texture4); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/Hill2-01.png", &texture5); // Replace with the actual image path
 
-    loadTexture("D:/Computer_Graphics/Msg1-01.png", &texture2); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/Msg2-01.png", &texture3); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/Msg1-01.png", &texture2); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/Msg2-01.png", &texture3); // Replace with the actual image path
 
-    loadTexture("D:/Computer_Graphics/AIUB Destroy1-01.png", &texture6); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/AIUB Destroy2-01.png", &texture7); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/AIUB Destroy3-01.png", &texture8); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/AIUB Destroy4-01.png", &texture9); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/AIUB Destroy5-01.png", &texture10); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/AIUB Destroy6-01.png", &texture11); // Replace with the actual image path
-    loadTexture("D:/Computer_Graphics/AIUB Destroy7-01.png", &texture12); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy1-01.png", &texture6); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy2-01.png", &texture7); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy3-01.png", &texture8); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy4-01.png", &texture9); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy5-01.png", &texture10); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy6-01.png", &texture11); // Replace with the actual image path
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/AIUB Destroy7-01.png", &texture12); // Replace with the actual image path
 
-    loadTexture("D:/Computer_Graphics/Grass.png", &grass);
-    loadTexture("D:/Computer_Graphics/TTPC-01.png", &ttp);
-    loadTexture("D:/Computer_Graphics/TextureC-01.png",&ct);
-    loadTexture("D:/Computer_Graphics/people-01.png", &p1);
-    loadTexture("D:/Computer_Graphics/text1-01.png", &t1);
-    loadTexture("D:/Computer_Graphics/text2-01.png", &t2);
-    loadTexture("D:/Computer_Graphics/text3-01.png", &t3);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/Grass.png", &grass);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/TTPC-01.png", &ttp);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/TextureC-01.png",&ct);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/people-01.png", &p1);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/text1-01.png", &t1);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/text2-01.png", &t2);
+    loadTexture("D:/Computer_Graphics-Full_Project\Computer_Graphics-Full_Project/text3-01.png", &t3);
 
     glutMainLoop();
 
